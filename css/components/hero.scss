@@ -2,7 +2,7 @@
     height: 100vh;
     min-height: 650px;
     color: $white;
-    background: url('../../img/backgrounds/узор\ 1.png') right bottom no-repeat;
+    background: url('../../../img/backgrounds/узор\ 1.png') right bottom no-repeat;
     background-color: $blue;
     position: relative;
   
@@ -27,7 +27,7 @@
       height: 100%;
       padding-top: 20px;
       padding-bottom: 20px;
-      background: url('./../../img/backgrounds/Батончики.png') right center / 50% auto no-repeat;
+      background: url('../../../img/backgrounds/Батончики.png') right center / 50% auto no-repeat;
     }
   
     &__text {

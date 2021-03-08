@@ -6,7 +6,7 @@ Error: Undefined variable: "$white".
 2:     height: 100vh;
 3:     min-height: 650px;
 4:     color: $white;
-5:     background: url('../../img/backgrounds/узор\ 1.png') right bottom no-repeat;
+5:     background: url('../../../img/backgrounds/узор\ 1.png') right bottom no-repeat;
 6:     background-color: $blue;
 7:     position: relative;
 8:   
@@ -59,4 +59,4 @@ C:/Program Files (x86)/Koala/bin/sass:22:in `<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$white\".\A         on line 4 of C:\Users\frade\Desktop\CHOCCO-project\css\components\hero.scss\A \A 1: .hero {\A 2:     height: 100vh;\A 3:     min-height: 650px;\A 4:     color: $white;\A 5:     background: url('../../img/backgrounds/узор\ 1.png') right bottom no-repeat;\A 6:     background-color: $blue;\A 7:     position: relative;\A 8:   \A 9:     &::before {"; }
+  content: "Error: Undefined variable: \"$white\".\A         on line 4 of C:\Users\frade\Desktop\CHOCCO-project\css\components\hero.scss\A \A 1: .hero {\A 2:     height: 100vh;\A 3:     min-height: 650px;\A 4:     color: $white;\A 5:     background: url('../../../img/backgrounds/узор\ 1.png') right bottom no-repeat;\A 6:     background-color: $blue;\A 7:     position: relative;\A 8:   \A 9:     &::before {"; }
