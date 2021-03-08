@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center; }
+  .header__logo {
+    margin-right: 40px; }
+  .header__phone {
+    position: relative;
+    margin-right: 14px; }
+    .header__phone-link {
+      font-size: 22px; }
