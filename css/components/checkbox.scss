@@ -12,7 +12,7 @@
       left: -9999px;
   
       &:checked + .checkbox__visible::before {
-        content: url("./../../img/checkmark.png");
+        content: url("../img/checkmark.png");
         position: absolute;
         top: 50%;
         left: 50%;

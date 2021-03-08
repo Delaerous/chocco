@@ -2,7 +2,7 @@
     position: relative;
   
     &::before {
-      content: url("../../img/backgrounds/узор\ лист\ 1.png");
+      content: url("../img/backgrounds/узор\ лист\ 1.png");
       position: absolute;
       left: 0;
       top: 50%;
@@ -10,7 +10,7 @@
     }
   
     &::after {
-      content: url("../../img/backgrounds/малина\ 1.png");
+      content: url("../img/backgrounds/малина\ 1.png");
       position: absolute;
       left: 0;
       bottom: -18%; 
